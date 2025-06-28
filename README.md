@@ -1,6 +1,6 @@
 # ProjetoTCC
 
-**Este é o repositório central do projeto de Trabalho de Conclusão de Curso (TCC), contendo:**  
+**Este é o repositório central do projeto de Trabalho de Conclusão de Curso (TCC)
 
 🔹 Tecnologias que usaremos durante o desenvolvimento
 
